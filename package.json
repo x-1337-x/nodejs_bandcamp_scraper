@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-scraper",
+  "version": "1.0.0",
+  "description": "soundscraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "x-1337-x",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.9.1",
+    "html-entities": "^2.3.2"
+  }
+}
